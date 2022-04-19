@@ -4,7 +4,7 @@
 ## English
 
 Fact Verification attempts to verify the credibility of political claims using predefined primary sources.  
-The files "PoliInfo3_FactVerification_Formal_Test.json" and "PoliInfo3_FactVerification_Formal_Train.json" and "PoliInfo3_FactVerification_Formal_Gold.json" have a format of political claim.  
+The files "PoliInfo3_FactVerification_Formal_Test.json" and "PoliInfo3_FactVerification_Formal_Train.json" and "PoliInfo3_FactVerification_Formal_Gold.json" have a format of the political claim.  
 They contain the following fields.
 
 | Field Name            | Description                                                                                           | Example                                                                                                                                                                                                                                           |
@@ -46,8 +46,7 @@ https://poliinfo3.net/tasks/fact-verification/
 
 ## Japanese 
 
-Fact Verificationは、入力テキスト（発言要約）と会議録が与えられたとき、その要約の内容が本当に会議録中に存在するかを判定し、存在する場合はその範囲を特定することを目的としています。  
-Please refer to the URL below for further information.
+Fact Verificationは、入力テキスト（発言要約）と会議録が与えられたとき、その要約の内容が本当に会議録中に存在するかを判定し、存在する場合はその範囲を特定することを目的としています。 
 
 https://poliinfo3.net/tasks/fact-verification/
 
