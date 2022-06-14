@@ -42,13 +42,13 @@ It contains the following fields.
   
 Please refer to the URL below for further information.
 
-https://poliinfo3.net/tasks/fact-verification/
+https://poliinfo3.github.io/tasks/fact-verification/
 
 ## Japanese 
 
 Fact Verificationは、入力テキスト（発言要約）と会議録が与えられたとき、その要約の内容が本当に会議録中に存在するかを判定し、存在する場合はその範囲を特定することを目的としています。 
 
-https://poliinfo3.net/tasks/fact-verification/
+https://poliinfo3.github.io/tasks/fact-verification/
 
 | フィールド名            | 説明                                                                                           | サンプル                                                                                                                                                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
